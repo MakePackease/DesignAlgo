@@ -1,2 +1,2 @@
 # DesignAlgo
-To Decide where to make Warehouses
+To Decide where to make store houses
